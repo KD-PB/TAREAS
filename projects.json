@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Proyecto 1",
+        "descripcion": "este proyecto es de una aplicacion para registros de usuarios como tambien el cobro de servicios de agua utilizado.",
+        "imagen": "image1.jpg"
+    },
+    {
+        "titulo": "Proyecto 2",
+        "descripcion": "Diagrama de como se creo el proyecto de la aplicacion para el registro y el uso de agua potable en el municipio de cochabamba.",
+        "imagen": "image2.jpg"
+    },
+    {
+        "titulo": "Proyecto 3",
+        "descripcion": "este proyecto es un diagrama de una base de datos de una empresa de servicios de trasporte de cargas.",
+        "imagen": "image3.jpg"
+    }
+]
